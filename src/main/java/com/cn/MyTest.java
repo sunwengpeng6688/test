@@ -4,8 +4,8 @@ public class MyTest {
 
 	public static void main(String[] args) {
 
-      //µÚÒ»´ÎÌá½»
-		System.out.println("µÚÒ»´ÎÌá½»");
+      //ç¬¬ä¸€æ¬¡æäº¤
+		System.out.println("ç¬¬ä¸€æ¬¡å‡ æ¡");
 
 	}
 
