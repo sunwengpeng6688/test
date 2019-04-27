@@ -14,6 +14,15 @@ public class test2 {
 
 		System.out.println("mytest1");
 		System.out.println("mytest1");
+			System.out.println("i");
+		
+		if(i==0) {
+			System.out.println("到我这里该处来了");
+			System.out.println("到我这里该处来了");System.out.println("到我这里该处来了");
+			break;
+			
+			
+		}
 
 
 	}
