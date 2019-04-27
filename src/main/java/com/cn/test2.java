@@ -8,8 +8,13 @@ public class test2 {
 
 		
 		
+
                System.out.println("mytest111111111111");
 		System.out.println("xinze");
+
+		System.out.println("mytest1");
+		System.out.println("mytest1");
+
 
 	}
 
